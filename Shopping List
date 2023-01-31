@@ -1,0 +1,10 @@
+ 
+const myList = [
+    ["Bread"]
+    ["Asparagus"]
+    ["Salmon"]
+    ["Water"]
+    ["Chicken"]
+    ];
+
+console.log.myList[2]c

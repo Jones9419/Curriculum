@@ -1,0 +1,32 @@
+
+const budget =  [
+{
+    name: 'Shoes',
+    cost: 120, 
+    isdiscertionary:true 
+},
+{
+    name: 'dog food',
+    cost: 20,
+    isdiscertionary: true
+},
+{
+    name: 'oil',
+    cost: 25,
+    isdiscertionary:true
+}, 
+{
+    name: 'coffee',
+    cost: 5,
+    isdiscertionary:true
+},
+{
+    name: 'protein powder',
+    cost: 37,
+    isdiscertionary:true
+}
+]
+
+log.console.[3]cost
+log.console.[1]name
+log.console.[5]isdiscertionary

@@ -1,0 +1,29 @@
+
+var friends = [
+    {
+        FirstName: Jordan,
+        LastName: Couch,
+        Age: 24,
+        isdiscretionary:true,
+        Hobbies: (Basketball, Coding, Being-a-Dad) 
+    },
+    
+    {
+        FirstName: Hilmar,
+        LastName: Caceres,
+        Age: 28,
+        isdiscretionary:true,
+        Hobbies: (Working, Watching-Sports, complaining)     
+    },
+
+    {
+        FirstName: Bill,
+        LastName: Sizemore,
+        Age: 32,
+        isdiscretionary:true,
+        Hobbies: (traveling, hiking, working)
+    }
+]
+
+
+
