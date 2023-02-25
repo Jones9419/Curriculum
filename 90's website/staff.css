@@ -1,0 +1,39 @@
+html{
+    background-color: blue;
+}
+
+
+body{
+    display: block;
+    background-color: darkgray;
+    padding-bottom: 0px;
+    
+}
+
+header{
+    text-align: center;
+    font-size: xx-large;
+    padding-top: 200px;
+}
+
+.staff{
+    padding-top: 200px;
+    margin-left: 540px;
+    padding-bottom: 130px;
+    font-weight: 400;
+    
+}
+
+.staff li{
+    display: list-item;
+    margin-bottom: 20px;
+   font-size: x-large;
+}
+
+Nav a{
+    display: block;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 700px;
+    padding-top: 30px; 
+}

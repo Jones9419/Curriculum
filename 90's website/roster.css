@@ -1,0 +1,35 @@
+html{
+    background-color: blue;
+}
+
+
+body{
+    display: block;
+    background-color: darkgray;
+}
+
+header{
+    text-align: center;
+    font-size: xx-large;
+}
+
+.roster{
+    padding-top: 200px;
+    margin-left: 540px;
+    padding-bottom: 130px;
+    font-weight: 400;
+    
+}
+
+.roster li{
+    margin-bottom: 20px;
+font-size: larger;
+}
+
+Nav a{
+    display: inline-block;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 600px;
+    
+}

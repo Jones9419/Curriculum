@@ -1,0 +1,25 @@
+.container {
+    background-color: #6c6461;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .box1 {
+    margin: 20px;
+    width: 20%;
+    height: 150px;
+    background-color: #72d5b4;
+    color: #6c6461;
+    font-size: 25px;
+    text-align: bottom;
+    line-height: 250px;
+    padding-left: 20px;
+  }
+
+  .box2{
+    margin: 20px;
+    background-color: #72d5b4;
+    padding-left: ;
+  }

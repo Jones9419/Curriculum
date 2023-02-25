@@ -1,0 +1,28 @@
+html{
+    background-color: blue;
+}
+
+
+body{
+    display: table;
+    background-color: darkgray;
+    padding-left: 400px;
+    padding-right: 860px;
+    align-items: center;
+}
+table{
+    padding-left: 200px;
+    padding-bottom: 200px;
+}
+
+table th{
+    padding-bottom: 20px;
+}
+
+Nav a{
+    display: inline-block;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 410px;
+    
+}

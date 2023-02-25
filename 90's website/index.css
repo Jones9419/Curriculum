@@ -1,0 +1,33 @@
+html{background-color: blue;}
+
+.table{
+    display: inline-flexbox;
+    background-color: darkgray;
+    text-align: center;
+    text-size-adjust: 100%;
+    margin: 0 0 50px 0;
+
+}
+ .head{
+    display: block;
+    background-color: darkgray;
+    text-emphasis: double-circle blue;
+    text-align: center;
+ }
+
+
+ .body{
+    display: grid;
+    background-color: darkgray;
+    font-size: larger;
+}
+
+img{
+   width: 800px;
+   height: 500px;
+   position: relative;
+   padding-left: 360px;
+}
+
+ 
+ 
