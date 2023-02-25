@@ -1,17 +1,17 @@
 # Javascript Data 101
 ## Writing data to memory in Javascript can be done with one of three words,
 
- 'var'
+ `var`
  ...
  var name = 'Paul';
  ...
 
- 'let'
+ `let`
  ...
  let name = 'Paul'; (reassignment is allowed)
  ...
 
- 'const'
+ `const`
  ...
  const name = 'Paul'; (this is not allowed)
  ...
