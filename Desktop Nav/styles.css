@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    background-color: cornflowerblue;
+    color: white;
+    padding-top: 30px;
+    padding-left: 20px;
+    width: 540px;
+    font-size: larger;
+    height: 50px;
+    word-spacing: 5px;
+    margin: 0 -5px;
+    gap: 10px;
+    
+}
+
+.navbar :first-child{
+    width: 170px;
+    padding-left: 10PX; 
+
+}
+
+ 
+

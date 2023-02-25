@@ -1,0 +1,74 @@
+.flexbox-container{
+    display: flex;
+    background-color: #c3ebf9;
+    color: white;
+    width: 719px;
+    height: 548px;
+    font-size: 18px;
+    font-family: sans-serif;
+    flex-direction: column;
+}
+
+.Header{
+    background-color: #02bfb1;
+    min-height: 62px;
+    min-width: 688px;
+    text-align: center;
+    align-self: center;
+    margin-bottom: 40px;
+    margin-top: 8px;
+}
+
+.Aside{
+    background-color: #6edb6e;
+    align-self:flex-start;
+    min-height: 328px;
+    min-width: 205px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.Article{
+    background-color: #fbb04c;
+    align-self: flex-end;
+    min-width: 466px;
+    min-height: 309px;
+    margin-top: -308px;
+    margin-bottom: 40px;
+    margin-right: 10px;
+    text-align: center;
+
+}
+
+.Article1{
+    display: inline-flex;
+    background-color: #fcd249;
+    min-height: 156px;
+    max-width: 135px;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+.Article2{
+    display: inline-block;
+    background-color: #fcd249;
+    min-height: 156px;
+    max-width: 135px;
+   
+    
+}
+
+.Article3{
+    display: inline-block;
+    background-color: #fcd249;
+    min-height: 156px;
+    max-width: 135px;
+}
+
+.Footer{
+    background-color: #02bfb1;
+    min-height: 62px;
+    min-width: 688px;
+    align-self: center;
+    text-align: center;
+}
